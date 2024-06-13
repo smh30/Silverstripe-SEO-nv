@@ -4,11 +4,9 @@
 <% loop $SitemapPages %>
 
 <url>
-    <blorb>Testing</blorb>
+
     <loc>{$Top.SitemapHost}$Link</loc>
     <lastmod>$SitemapDate</lastmod>
-    <changefreq>$ChangeFrequency</changefreq>
-    <priority>$Priority</priority>
 
     <% loop $SitemapImages %>
     
