@@ -5,6 +5,7 @@
 [![Total Downloads](https://poser.pugx.org/cyber-duck/silverstripe-seo/downloads)](https://packagist.org/packages/cyber-duck/silverstripe-seo)
 [![License](https://poser.pugx.org/cyber-duck/silverstripe-seo/license)](https://packagist.org/packages/cyber-duck/silverstripe-seo)
 
+Forked to change sitemap.xml fields.
 Author: [Andrew Mc Cormack](https://github.com/Andrew-Mc-Cormack)
 
 ## Features
