@@ -5,7 +5,7 @@
 [![Total Downloads](https://poser.pugx.org/cyber-duck/silverstripe-seo/downloads)](https://packagist.org/packages/cyber-duck/silverstripe-seo)
 [![License](https://poser.pugx.org/cyber-duck/silverstripe-seo/license)](https://packagist.org/packages/cyber-duck/silverstripe-seo)
 
-Forked to change sitemap.xml fields.
+Forked to reduce sitemap.xml fields for Google.
 Author: [Andrew Mc Cormack](https://github.com/Andrew-Mc-Cormack)
 
 ## Features
@@ -38,7 +38,7 @@ Add the following to your composer.json file and run /dev/build?flush=all
 ```json
 {  
     "require": {  
-        "cyber-duck/silverstripe-seo": "4.2.*"
+        "smh30/silverstripe-seo-nv": "4.2.*"
     }
 }
 ```
@@ -50,7 +50,7 @@ Add the following to your composer.json file and run /dev/build?flush=all
 ```json
 {  
     "require": {  
-        "cyber-duck/silverstripe-seo": "4.1.*"
+        "smh30/silverstripe-seo-nv": "4.1.*"
     }
 }
 ```
